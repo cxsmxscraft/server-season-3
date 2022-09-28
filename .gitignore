@@ -1,4 +1,9 @@
 # Minecraft files
-spigot.jar
-bundler
 logs
+bundler
+libraries
+versions
+server.properties
+crash-reports
+uwucrafter
+spigot.jar
