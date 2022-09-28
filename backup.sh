@@ -18,11 +18,11 @@ if [ "$(git status --porcelain)" ]; then
 	git commit -m "Sync from local to remote $RANDOM"
 fi
 
-echo "Starting the server"
-sudo systemctl start minecraft
+#echo "Starting the server"
+#sudo systemctl start minecraft
 
-echo Waiting for the server to startup
-sleep 60
+#echo Waiting for the server to startup
+#sleep 60
 
 echo Sending save stats signal
 rcon "save-on"
