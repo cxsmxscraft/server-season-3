@@ -4,7 +4,7 @@
 cd "$(dirname "$0")"
 
 function rcon {
-	/usr/bin/mcrcon -H owo.uwussi.moe -P 25575 -p "$RCONPASS" "$1"
+	/usr/bin/mcrcon -H owo.uwussi.moe -P "$RCONPORT" -p "$RCONPASS" "$1"
 }
 
 echo Sending signals to the server
