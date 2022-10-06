@@ -65,6 +65,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/yellow_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_yellow_dye": "2022-10-06 08:21:05 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_stone_bricks": {
     "criteria": {
       "has_tag": "2022-10-01 12:31:01 +0200"
@@ -553,6 +559,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2022-10-06 07:30:58 +0200",
       "minecraft:skeleton": "2022-10-04 19:16:52 +0200",
       "minecraft:spider": "2022-10-01 11:56:10 +0200"
     },
@@ -639,6 +646,12 @@
   "minecraft:recipes/building_blocks/deepslate_bricks": {
     "criteria": {
       "has_polished_deepslate": "2022-09-28 20:14:33 +0200"
+    },
+    "done": true
+  },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2022-10-06 07:32:30 +0200"
     },
     "done": true
   },
@@ -744,6 +757,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_salmon_from_smoking": {
+    "criteria": {
+      "has_salmon": "2022-10-06 08:08:09 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/deepslate_tile_wall_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2022-09-28 19:33:30 +0200"
@@ -786,6 +805,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/red_dye_from_poppy": {
+    "criteria": {
+      "has_poppy": "2022-10-06 08:20:58 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/spruce_wood": {
     "criteria": {
       "has_log": "2022-09-28 18:01:06 +0200"
@@ -795,6 +820,12 @@
   "minecraft:recipes/building_blocks/clay": {
     "criteria": {
       "has_clay_ball": "2022-09-30 17:36:20 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_dandelion": "2022-10-06 07:30:53 +0200"
     },
     "done": true
   },
@@ -1073,8 +1104,10 @@
       "minecraft:old_growth_pine_taiga": "2022-09-28 18:31:19 +0200",
       "minecraft:taiga": "2022-09-28 18:01:01 +0200",
       "minecraft:deep_ocean": "2022-09-28 18:58:20 +0200",
+      "minecraft:sunflower_plains": "2022-10-06 08:09:44 +0200",
       "minecraft:beach": "2022-09-28 18:56:30 +0200",
       "minecraft:river": "2022-09-28 18:28:39 +0200",
+      "minecraft:stony_shore": "2022-10-06 08:16:06 +0200",
       "minecraft:dripstone_caves": "2022-09-28 19:27:55 +0200",
       "minecraft:snowy_taiga": "2022-09-28 18:33:48 +0200",
       "minecraft:cold_ocean": "2022-09-28 18:57:47 +0200",
@@ -1136,6 +1169,12 @@
   "minecraft:recipes/misc/iron_ingot_from_smelting_raw_iron": {
     "criteria": {
       "has_raw_iron": "2022-09-28 18:42:37 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2022-10-06 07:43:37 +0200"
     },
     "done": true
   },
@@ -1232,6 +1271,18 @@
   "minecraft:recipes/decorations/lantern": {
     "criteria": {
       "has_iron_ingot": "2022-09-28 18:49:58 +0200"
+    },
+    "done": true
+  },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:crimson_forest": "2022-10-06 07:28:36 +0200"
+    },
+    "done": false
+  },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_chestplate": "2022-10-06 07:49:02 +0200"
     },
     "done": true
   },
@@ -1364,6 +1415,12 @@
   "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_bricks_stonecutting": {
     "criteria": {
       "has_stone_bricks": "2022-10-01 12:31:01 +0200"
+    },
+    "done": true
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2022-10-06 07:28:35 +0200"
     },
     "done": true
   },
@@ -1863,6 +1920,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2022-10-06 07:08:49 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_andesite_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2022-09-28 19:28:51 +0200"
@@ -1890,6 +1953,12 @@
   "minecraft:recipes/decorations/cyan_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2022-09-28 18:37:26 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
+    "criteria": {
+      "has_salmon": "2022-10-06 08:08:09 +0200"
     },
     "done": true
   },
@@ -1932,6 +2001,12 @@
   "minecraft:recipes/tools/diamond_shovel": {
     "criteria": {
       "has_diamond": "2022-09-28 19:42:02 +0200"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2022-10-06 07:28:35 +0200"
     },
     "done": true
   },
@@ -2175,6 +2250,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/nether_brick": {
+    "criteria": {
+      "has_netherrack": "2022-10-06 07:49:28 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/black_carpet": {
     "criteria": {
       "has_black_wool": "2022-09-28 18:03:39 +0200"
@@ -2208,6 +2289,12 @@
   "minecraft:recipes/redstone/light_weighted_pressure_plate": {
     "criteria": {
       "has_gold_ingot": "2022-09-30 18:32:20 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_chestplate": "2022-10-06 07:49:02 +0200"
     },
     "done": true
   },
@@ -2295,6 +2382,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_salmon": {
+    "criteria": {
+      "has_salmon": "2022-10-06 08:08:09 +0200"
+    },
+    "done": true
+  },
   "minecraft:story/root": {
     "criteria": {
       "crafting_table": "2022-09-28 18:01:29 +0200"
@@ -2316,6 +2409,12 @@
   "minecraft:recipes/misc/coal": {
     "criteria": {
       "has_coal_block": "2022-10-01 12:26:22 +0200"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2022-10-06 07:08:49 +0200"
     },
     "done": true
   },
@@ -2352,6 +2451,12 @@
   "minecraft:recipes/misc/magenta_dye_from_blue_red_pink": {
     "criteria": {
       "has_red_dye": "2022-10-04 19:46:14 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/yellow_candle": {
+    "criteria": {
+      "has_yellow_dye": "2022-10-06 08:21:06 +0200"
     },
     "done": true
   },
