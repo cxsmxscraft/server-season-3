@@ -648,7 +648,8 @@
       "minecraft:vindicator": "2022-10-06 19:13:38 +0200",
       "minecraft:spider": "2022-10-01 11:56:10 +0200",
       "minecraft:creeper": "2022-10-06 14:36:40 +0200",
-      "minecraft:witch": "2022-10-06 19:20:12 +0200"
+      "minecraft:witch": "2022-10-06 19:20:12 +0200",
+      "minecraft:zombie": "2022-10-07 10:43:27 +0200"
     },
     "done": false
   },
@@ -2807,15 +2808,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/birch_stairs": {
-    "criteria": {
-      "has_planks": "2022-10-07 07:33:24 +0200"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/iron_ingot_from_iron_block": {
     "criteria": {
       "has_iron_block": "2022-10-07 07:28:52 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_stairs": {
+    "criteria": {
+      "has_planks": "2022-10-07 07:33:24 +0200"
     },
     "done": true
   },
