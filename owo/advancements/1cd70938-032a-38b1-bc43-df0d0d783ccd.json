@@ -29,6 +29,12 @@
     },
     "done": true
   },
+  "minecraft:nether/obtain_crying_obsidian": {
+    "criteria": {
+      "crying_obsidian": "2022-10-08 16:15:20 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_sword": {
     "criteria": {
       "has_iron_ingot": "2022-10-05 19:41:45 +0200"
@@ -338,6 +344,12 @@
   "minecraft:recipes/transportation/jungle_chest_boat": {
     "criteria": {
       "has_boat": "2022-10-06 18:29:43 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dripstone_block": {
+    "criteria": {
+      "has_pointed_dripstone": "2022-10-08 16:15:41 +0200"
     },
     "done": true
   },
@@ -834,6 +846,12 @@
   "minecraft:recipes/misc/blue_dye_from_cornflower": {
     "criteria": {
       "has_cornflower": "2022-10-06 19:26:11 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/moss_carpet": {
+    "criteria": {
+      "has_moss_block": "2022-10-08 16:15:30 +0200"
     },
     "done": true
   },
@@ -1383,6 +1401,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/soul_torch": {
+    "criteria": {
+      "has_soul_sand": "2022-10-08 16:15:08 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/purple_wool": {
     "criteria": {
       "has_white_wool": "2022-10-05 17:34:04 +0200"
@@ -1647,6 +1671,7 @@
       "chicken": "2022-10-05 18:06:23 +0200",
       "cooked_mutton": "2022-10-05 18:18:08 +0200",
       "chorus_fruit": "2022-10-05 19:22:52 +0200",
+      "cooked_beef": "2022-10-08 16:52:09 +0200",
       "beef": "2022-10-05 17:48:38 +0200",
       "baked_potato": "2022-10-05 19:42:09 +0200",
       "porkchop": "2022-10-05 17:29:44 +0200",
@@ -1659,6 +1684,12 @@
   "minecraft:recipes/tools/wooden_hoe": {
     "criteria": {
       "has_stick": "2022-10-06 09:13:50 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/respawn_anchor": {
+    "criteria": {
+      "has_obsidian": "2022-10-08 16:15:20 +0200"
     },
     "done": true
   },
@@ -2328,6 +2359,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2022-10-08 16:15:30 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/arrow": {
     "criteria": {
       "has_feather": "2022-10-05 18:04:04 +0200"
@@ -2388,6 +2425,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/conduit": {
+    "criteria": {
+      "has_nautilus_core": "2022-10-08 16:17:23 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/spruce_slab": {
     "criteria": {
       "has_planks": "2022-10-06 18:49:47 +0200"
@@ -2427,6 +2470,12 @@
   "minecraft:recipes/building_blocks/polished_deepslate_stairs_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2022-10-06 09:23:34 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_bricks_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2022-10-08 16:15:30 +0200"
     },
     "done": true
   },
