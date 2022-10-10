@@ -137,6 +137,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/magma_block": {
+    "criteria": {
+      "has_magma_cream": "2022-10-09 13:00:58 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/ladder": {
     "criteria": {
       "has_stick": "2022-09-28 15:57:26 +0200"
@@ -233,9 +239,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/crimson_pressure_plate": {
+    "criteria": {
+      "has_planks": "2022-10-09 10:11:07 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/dispenser": {
     "criteria": {
       "has_bow": "2022-09-28 18:28:40 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crimson_fence": {
+    "criteria": {
+      "has_planks": "2022-10-09 10:11:07 +0200"
     },
     "done": true
   },
@@ -248,6 +266,12 @@
   "minecraft:recipes/food/cake": {
     "criteria": {
       "has_egg": "2022-10-05 19:56:16 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_planks": {
+    "criteria": {
+      "has_log": "2022-10-09 12:24:55 +0200"
     },
     "done": true
   },
@@ -329,9 +353,21 @@
     },
     "done": true
   },
+  "minecraft:adventure/avoid_vibration": {
+    "criteria": {
+      "avoid_vibration": "2022-10-09 13:06:53 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stripped_birch_wood": {
     "criteria": {
       "has_log": "2022-09-29 08:45:52 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_brick_stairs_from_end_stone_brick_stonecutting": {
+    "criteria": {
+      "has_end_stone_brick": "2022-10-09 10:52:37 +0200"
     },
     "done": true
   },
@@ -386,6 +422,12 @@
   "minecraft:recipes/decorations/iron_bars": {
     "criteria": {
       "has_iron_ingot": "2022-09-28 16:39:07 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/crimson_button": {
+    "criteria": {
+      "has_planks": "2022-10-09 10:11:07 +0200"
     },
     "done": true
   },
@@ -539,6 +581,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/end_stone_brick_stairs": {
+    "criteria": {
+      "has_end_stone_bricks": "2022-10-09 10:52:37 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_brick_slab": {
+    "criteria": {
+      "has_end_stone_bricks": "2022-10-09 10:52:37 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/gray_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2022-09-28 17:00:51 +0200"
@@ -572,10 +626,14 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:blaze": "2022-09-28 19:05:34 +0200",
+      "minecraft:pillager": "2022-10-09 16:03:15 +0200",
       "minecraft:skeleton": "2022-09-28 17:18:03 +0200",
       "minecraft:ghast": "2022-09-28 19:48:29 +0200",
+      "minecraft:hoglin": "2022-10-09 13:12:40 +0200",
+      "minecraft:magma_cube": "2022-10-09 13:00:21 +0200",
       "minecraft:spider": "2022-09-28 17:15:00 +0200",
       "minecraft:creeper": "2022-09-28 20:23:42 +0200",
+      "minecraft:wither_skeleton": "2022-10-09 13:01:32 +0200",
       "minecraft:shulker": "2022-10-05 19:01:55 +0200",
       "minecraft:piglin": "2022-09-28 19:43:44 +0200",
       "minecraft:enderman": "2022-09-28 19:23:14 +0200",
@@ -648,6 +706,12 @@
   "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
     "criteria": {
       "has_chicken": "2022-09-30 17:49:30 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crimson_sign": {
+    "criteria": {
+      "has_planks": "2022-10-09 10:11:07 +0200"
     },
     "done": true
   },
@@ -819,6 +883,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/crimson_slab": {
+    "criteria": {
+      "has_planks": "2022-10-09 10:11:07 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/nether_brick_stairs_from_nether_bricks_stonecutting": {
     "criteria": {
       "has_nether_bricks": "2022-09-28 19:05:16 +0200"
@@ -840,6 +910,18 @@
   "minecraft:recipes/decorations/light_gray_bed": {
     "criteria": {
       "has_light_gray_wool": "2022-09-28 16:50:10 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/crimson_stairs": {
+    "criteria": {
+      "has_planks": "2022-10-09 10:11:07 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/crimson_fence_gate": {
+    "criteria": {
+      "has_planks": "2022-10-09 10:11:07 +0200"
     },
     "done": true
   },
@@ -894,6 +976,12 @@
   "minecraft:recipes/building_blocks/oak_planks": {
     "criteria": {
       "has_logs": "2022-09-28 16:30:50 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/end_stone_brick_wall": {
+    "criteria": {
+      "has_end_stone_bricks": "2022-10-09 10:52:37 +0200"
     },
     "done": true
   },
@@ -1149,6 +1237,7 @@
       "minecraft:ocean": "2022-09-29 09:00:54 +0200",
       "minecraft:deep_lukewarm_ocean": "2022-09-28 20:13:22 +0200",
       "minecraft:old_growth_birch_forest": "2022-09-29 08:19:16 +0200",
+      "minecraft:deep_dark": "2022-10-09 13:06:24 +0200",
       "minecraft:meadow": "2022-09-28 16:51:04 +0200",
       "minecraft:savanna": "2022-09-28 19:58:34 +0200",
       "minecraft:plains": "2022-09-28 16:49:07 +0200"
@@ -1221,6 +1310,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2022-10-09 12:51:43 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/stone_pickaxe": {
     "criteria": {
       "has_cobblestone": "2022-09-28 15:57:52 +0200"
@@ -1278,6 +1373,12 @@
   "minecraft:recipes/building_blocks/diamond_block": {
     "criteria": {
       "has_diamond": "2022-09-28 18:05:59 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_brick_slab_from_end_stone_brick_stonecutting": {
+    "criteria": {
+      "has_end_stone_brick": "2022-10-09 10:52:37 +0200"
     },
     "done": true
   },
@@ -1609,6 +1710,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/end_stone_brick_wall_from_end_stone_brick_stonecutting": {
+    "criteria": {
+      "has_end_stone_brick": "2022-10-09 10:52:37 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/gray_wool": {
     "criteria": {
       "has_white_wool": "2022-09-28 16:48:09 +0200"
@@ -1637,6 +1744,7 @@
     "criteria": {
       "cooked_mutton": "2022-09-28 18:43:05 +0200",
       "chorus_fruit": "2022-09-30 18:24:20 +0200",
+      "cooked_beef": "2022-10-09 10:48:33 +0200",
       "baked_potato": "2022-09-28 18:17:42 +0200",
       "porkchop": "2022-09-28 16:51:21 +0200",
       "apple": "2022-09-28 16:43:05 +0200",
@@ -1899,6 +2007,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/crimson_door": {
+    "criteria": {
+      "has_planks": "2022-10-09 10:11:07 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/wooden_pickaxe": {
     "criteria": {
       "has_stick": "2022-09-28 15:57:26 +0200"
@@ -1989,6 +2103,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dark_oak_wood": {
+    "criteria": {
+      "has_log": "2022-10-09 12:24:55 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/orange_stained_glass": {
     "criteria": {
       "has_glass": "2022-10-06 19:26:12 +0200"
@@ -2028,6 +2148,12 @@
   "minecraft:recipes/tools/clock": {
     "criteria": {
       "has_redstone": "2022-09-28 18:31:35 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/crimson_trapdoor": {
+    "criteria": {
+      "has_planks": "2022-10-09 10:11:07 +0200"
     },
     "done": true
   },

@@ -2095,6 +2095,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/blue_ice": {
+    "criteria": {
+      "has_packed_ice": "2022-10-09 12:17:28 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate": {
     "criteria": {
       "has_cobbled_deepslate": "2022-10-06 09:23:34 +0200"
