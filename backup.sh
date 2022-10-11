@@ -16,7 +16,7 @@ if [ "$(git status --porcelain)" ]; then
 	echo "There are changes in the data folder. Committing them..."
 	git add .
 	git commit -m "Sync from local to remote $RANDOM"
-	git push
+	#git push
 fi
 
 #echo "Starting the server"
