@@ -137,6 +137,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/melon_seeds": {
+    "criteria": {
+      "has_melon": "2022-10-12 08:37:04 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/magma_block": {
     "criteria": {
       "has_magma_cream": "2022-10-09 13:00:58 +0200"
@@ -146,6 +152,12 @@
   "minecraft:recipes/decorations/ladder": {
     "criteria": {
       "has_stick": "2022-09-28 15:57:26 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_slab": {
+    "criteria": {
+      "has_planks": "2022-10-11 17:31:15 +0200"
     },
     "done": true
   },
@@ -206,6 +218,12 @@
   "minecraft:recipes/building_blocks/purpur_stairs": {
     "criteria": {
       "has_purpur_block": "2022-09-30 18:46:43 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_button": {
+    "criteria": {
+      "has_planks": "2022-10-11 17:31:15 +0200"
     },
     "done": true
   },
@@ -290,6 +308,12 @@
   "minecraft:recipes/building_blocks/sandstone_stairs": {
     "criteria": {
       "has_sandstone": "2022-09-28 20:15:47 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_door": {
+    "criteria": {
+      "has_planks": "2022-10-11 17:31:15 +0200"
     },
     "done": true
   },
@@ -715,6 +739,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/glistering_melon_slice": {
+    "criteria": {
+      "has_melon": "2022-10-12 08:37:04 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_fence_gate": {
+    "criteria": {
+      "has_planks": "2022-10-11 17:31:15 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_nugget_from_smelting": {
     "criteria": {
       "has_iron_pickaxe": "2022-09-28 16:39:23 +0200"
@@ -1114,6 +1150,12 @@
   "minecraft:recipes/building_blocks/yellow_wool": {
     "criteria": {
       "has_white_wool": "2022-09-28 16:48:09 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_trapdoor": {
+    "criteria": {
+      "has_planks": "2022-10-11 17:31:15 +0200"
     },
     "done": true
   },
@@ -1751,6 +1793,7 @@
       "mutton": "2022-09-29 08:24:29 +0200",
       "bread": "2022-09-28 16:54:48 +0200",
       "golden_apple": "2022-09-28 20:30:04 +0200",
+      "rotten_flesh": "2022-10-11 18:06:03 +0200",
       "cooked_chicken": "2022-10-05 18:34:12 +0200"
     },
     "done": false
@@ -2187,6 +2230,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dark_oak_stairs": {
+    "criteria": {
+      "has_planks": "2022-10-11 17:31:15 +0200"
+    },
+    "done": true
+  },
   "minecraft:story/enter_the_nether": {
     "criteria": {
       "entered_nether": "2022-09-28 19:01:32 +0200"
@@ -2238,6 +2287,12 @@
   "minecraft:recipes/decorations/ender_chest": {
     "criteria": {
       "has_ender_eye": "2022-09-29 08:53:41 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_oak_sign": {
+    "criteria": {
+      "has_planks": "2022-10-11 17:31:15 +0200"
     },
     "done": true
   },
@@ -2679,6 +2734,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dark_oak_pressure_plate": {
+    "criteria": {
+      "has_planks": "2022-10-11 17:31:15 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/mossy_stone_brick_slab_from_mossy_stone_brick_stonecutting": {
     "criteria": {
       "has_mossy_stone_bricks": "2022-09-30 18:04:12 +0200"
@@ -2895,6 +2956,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/dark_oak_fence": {
+    "criteria": {
+      "has_planks": "2022-10-11 17:31:15 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/diamond_boots": {
     "criteria": {
       "has_diamond": "2022-09-28 18:05:59 +0200"
@@ -2916,6 +2983,12 @@
   "minecraft:story/smelt_iron": {
     "criteria": {
       "iron": "2022-09-28 16:39:07 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/melon": {
+    "criteria": {
+      "has_melon": "2022-10-12 08:37:04 +0200"
     },
     "done": true
   },

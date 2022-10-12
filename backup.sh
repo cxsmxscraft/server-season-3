@@ -15,7 +15,7 @@ rcon "save-all"
 if [ "$(git status --porcelain)" ]; then
 	echo "There are changes in the data folder. Committing them..."
 	git add .
-	git commit -m "Sync from local to remote $RANDOM"
+	git commit -a -m "Sync from local to remote $RANDOM"
 	#git push
 fi
 
