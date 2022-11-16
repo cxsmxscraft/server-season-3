@@ -167,6 +167,12 @@
     },
     "done": true
   },
+  "minecraft:end/elytra": {
+    "criteria": {
+      "elytra": "2022-11-02 08:41:55 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobbled_deepslate_slab": {
     "criteria": {
       "has_cobbled_deepslate": "2022-09-28 18:00:41 +0200"
@@ -1275,7 +1281,9 @@
   },
   "minecraft:nether/explore_nether": {
     "criteria": {
-      "minecraft:crimson_forest": "2022-10-03 10:24:37 +0200"
+      "minecraft:crimson_forest": "2022-10-03 10:24:37 +0200",
+      "minecraft:soul_sand_valley": "2022-10-19 08:07:11 +0200",
+      "minecraft:nether_wastes": "2022-11-02 08:42:44 +0100"
     },
     "done": false
   },
@@ -1589,6 +1597,12 @@
   "minecraft:recipes/misc/bucket": {
     "criteria": {
       "has_iron_ingot": "2022-09-28 16:04:59 +0200"
+    },
+    "done": true
+  },
+  "minecraft:nether/fast_travel": {
+    "criteria": {
+      "travelled": "2022-11-02 08:43:47 +0100"
     },
     "done": true
   },
